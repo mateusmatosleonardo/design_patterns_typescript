@@ -26,6 +26,7 @@ Esses princípios foram definidos pelo autor Robert Martin.
 Tudo começou quando, Christopher Alexander - Urbanista e engenheiro civil austríaco, escreveu dois livros falando sobre design pattern
 - A Pattern Language (08/1977)
 - A Timesless Way of Building (08/1979)
+
 Alexander escreveu esses livros pensando na construção de prédios, mas os padrões que ele notou, podem ser aplicados também a arquitetura de software/desenvolvimento de software
 
 Características de um Padrão:
@@ -35,3 +36,5 @@ Características de um Padrão:
 - Abstração
 - Abertura
 - Combinatório
+
+Christopher Alexander escreveu que um padrão de projeto basicamente descreve um problema que ocorre várias vezes no nosso ambiente de desenvolvimento e ele também descreve como podemos resolver aquela questão e deixa isso registrado, para que possamos lembrar de como fizemos aquilo, para não ter que ficar repetindo a mesma solução mais de uma vez.
