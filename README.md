@@ -38,3 +38,5 @@ Características de um Padrão:
 - Combinatório
 
 Christopher Alexander escreveu que um padrão de projeto basicamente descreve um problema que ocorre várias vezes no nosso ambiente de desenvolvimento e ele também descreve como podemos resolver aquela questão e deixa isso registrado, para que possamos lembrar de como fizemos aquilo, para não ter que ficar repetindo a mesma solução mais de uma vez.
+
+## Gangue dos Quatro - Gang of Four (Gof)
