@@ -43,3 +43,5 @@ Christopher Alexander escreveu que um padrão de projeto basicamente descreve um
 A "Gangue dos Quatro" são quatro desenvolvedores, que se jutaram e escreveram um livro mundialmente conhecido, o Design Patterns - Elements of Reusable Object-Oriented Software - 1995
 Esses quatro desenvolvedores são: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 Dentro desse livro, eles documentaram certa de 23 padrões de projeto
+
+## Por que utilizar Design Pattern
