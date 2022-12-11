@@ -46,4 +46,4 @@ Dentro desse livro, eles documentaram certa de 23 padrões de projeto
 
 ## Por que utilizar Design Pattern
 "Não reinventar a roda"
-Aprenda a reconhecer um padrão, e a implementá-lo.
+Aprenda a reconhecer um padrão, e a implementá-lo. É como conhecer bem uma ferramenta específica, muitas vezes você não precisará dela, mas quando precisar, você saberá.
