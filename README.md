@@ -57,3 +57,6 @@ Os engenheiros de software bem como os arquitetos de software precisam conhecer 
 ## Padrão Criacional, Estrutural e Comportamental
 ### Criacional
 Trabalham com a criação de objetos flexíveis e reutilizáveis.
+<br>
+### Estrutural
+Definem como trabalhar com objetos e classes em estruturas maiores e complexas, e ainda assim flexíveis e eficientes.
