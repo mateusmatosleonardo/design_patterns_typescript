@@ -45,3 +45,5 @@ Esses quatro desenvolvedores são: Erich Gamma, Richard Helm, Ralph Johnson, Joh
 Dentro desse livro, eles documentaram certa de 23 padrões de projeto
 
 ## Por que utilizar Design Pattern
+"Não reinventar a roda"
+Aprenda a reconhecer um padrão, e a implementá-lo.
