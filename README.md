@@ -55,3 +55,5 @@ Os padrões possuem nome, tem situações em que ocorrem, e resolvem problemas e
 Os engenheiros de software bem como os arquitetos de software precisam conhecer bem os padrões de projeto e saber onde aplicá-los.
 
 ## Padrão Criacional, Estrutural e Comportamental
+### Criacional
+Trabalham com a criação de objetos flexíveis e reutilizáveis.
