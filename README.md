@@ -62,3 +62,4 @@ Trabalham com a criação de objetos flexíveis e reutilizáveis.
 Definem como trabalhar com objetos e classes em estruturas maiores e complexas, e ainda assim flexíveis e eficientes.
 <br>
 ### Comportamental
+Trabalham com a comunicação eficiente e designam as responsabilidades comuns aos objetos.
