@@ -47,5 +47,9 @@ Dentro desse livro, eles documentaram certa de 23 padrões de projeto
 ## Por que utilizar Design Pattern
 "Não reinventar a roda"
 Aprenda a reconhecer um padrão, e a implementá-lo. É como conhecer bem uma ferramenta específica, muitas vezes você não precisará dela, mas quando precisar, você saberá.
+
 "Melhora a Comunicação"
 Os padrões possuem nome, tem situações em que ocorrem, e resolvem problemas específicos, quando aplicados melhoram a comunicação entre a equipe.
+
+"Alavancar sua carreira profissional"
+Os engenheiros de software bem como os arquitetos de software precisam conhecer bem os padrões de projeto e saber onde aplicá-los.
