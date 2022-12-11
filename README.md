@@ -60,3 +60,5 @@ Trabalham com a criação de objetos flexíveis e reutilizáveis.
 <br>
 ### Estrutural
 Definem como trabalhar com objetos e classes em estruturas maiores e complexas, e ainda assim flexíveis e eficientes.
+<br>
+### Comportamental
