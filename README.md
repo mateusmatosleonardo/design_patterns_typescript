@@ -63,3 +63,31 @@ Definem como trabalhar com objetos e classes em estruturas maiores e complexas, 
 <br>
 ### Comportamental
 Trabalham com a comunicação eficiente e designam as responsabilidades comuns aos objetos.
+
+## Design pattern - Criacional
+**Factory Method**
+```mermaid
+classDiagram
+    Transport <|-- CarTransport
+    Transport <|-- MotorcycleTransport
+    Transport : ...
+    Transport : startTransport()
+    Transport : startTransport() Vehicle
+    Vehicle <.. Transport
+    Car ..> Vehicle
+    Motorcycle ..> Vehicle
+    class CarTransport{
+      ...
+      createTransport() Vehicle
+    }
+   class MotorcycleTransport{
+      ...
+      createTransport() Vehicle
+    }
+    class Vehicle
+    <<interface>> Vehicle
+    Vehicle : startRoute()
+    Vehicle : getCargo()
+    class Car
+    class Motorcycle 
+```
