@@ -66,6 +66,22 @@ Trabalham com a comunicação eficiente e designam as responsabilidades comuns a
 
 ## Design pattern - Criacional
 **Factory Method**
+<br>
+**Cenário**
+<br>
+Você é um Software Enginner no Uber
+<br>
+<br>
+Toda a aplicação foi pensada em carros talvez até com uma variação como o Uber Black, porém, agora você tem uma demanda da área de negócios, o **Uber Eats**, e em vez de apenas carros, temos motos. E ainda, em grandes cidades, temos **bicicletas** também.
+<br>
+<br>
+Se a maior parte da aplicação está amarrada a uma classe ou de alguma forma está engessada, fica complicado estender os recursos para aplicar a outros meios de transporte e suas nuances, por exemplo bicicleta, não tem porta malas para diferenciar a categoria.
+<br>
+<br>
+Resultado: Código sujo, if e demais condicionais com efeitos colaterais e difícil manutenibilidade.
+<br>
+<br>
+
 ```mermaid
 classDiagram
     Transport <|-- CarTransport
