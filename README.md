@@ -114,3 +114,9 @@ A nossa aplicação está sendo um sucesso, mas agora temos uma nova demanda.
 <br>
 <br>
 Criamos um marketplace de transportes, e não somente Uber, mas a 99 e outros parceiros podem estar conosco, agora além de termos diferentes tipos de transportes, podemos ter diferentes tipos de empresas prestando o mesmo serviço, e nossa aplicação precisa prever quais tipos de transportes estão disponíveis para cada empresa. Como são os mesmos tipos de serviços, podemos utilizar o Abstract Factory.
+<br>
+<br>
+
+**Solução**
+<br>
+No Abstract Factory primeiro precisamos declarar explicitamente interfaces para cada produto destinto da família de produtos (ex: veículos e aeronaves). Então podemos fazer todas as variantes dos produtos seguirem essas interfaces.
