@@ -107,3 +107,10 @@ classDiagram
     class Car
     class Motorcycle 
 ```
+<br>
+**Abstract Factory**
+<br>
+A nossa aplicação está sendo um sucesso, mas agora temos uma nova demanda.
+<br>
+<br>
+Criamos um marketplace de transportes, e não somente Uber, mas a 99 e outros parceiros podem estar conosco, agora além de termos diferentes tipos de transportes, podemos ter diferentes tipos de empresas prestando o mesmo serviço, e nossa aplicação precisa prever quais tipos de transportes estão disponíveis para cada empresa. Como são os mesmos tipos de serviços, podemos utilizar o Abstract Factory.
