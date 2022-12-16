@@ -120,3 +120,5 @@ Criamos um marketplace de transportes, e não somente Uber, mas a 99 e outros pa
 **Solução**
 <br>
 No Abstract Factory primeiro precisamos declarar explicitamente interfaces para cada produto destinto da família de produtos (ex: veículos e aeronaves). Então podemos fazer todas as variantes dos produtos seguirem essas interfaces.
+
+Em seguida, declaramos a ***fábrica abstrata*** - uma interface com uma lista de métodos de criação para todos os produtos
